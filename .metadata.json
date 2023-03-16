@@ -1,0 +1,14 @@
+[
+  {
+    "package": "spBFA",
+    "oncran": true
+  },
+  {
+    "package": "spCP",
+    "oncran": true
+  },
+  {
+    "package": "womblR",
+    "oncran": true
+  }
+]
