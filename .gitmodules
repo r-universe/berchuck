@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "spBFA"]
 	path = spBFA
 	url = https://github.com/berchuck/spbfa
-	shallow = true
-	registered = true
 [submodule "spCP"]
 	path = spCP
 	url = https://github.com/berchuck/spcp
-	shallow = true
-	registered = true
 [submodule "womblR"]
 	path = womblR
 	url = https://github.com/berchuck/womblr
-	shallow = true
-	registered = true
